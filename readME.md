@@ -24,7 +24,7 @@ Desenvolver uma aplicação que permita:
 
 
 
-## ⚙️ Funcionalidades Implementadas
+<!-- ## ⚙️ Funcionalidades Implementadas
 
 - Definir limite do cartão  
 - Consultar limite disponível  
@@ -43,7 +43,7 @@ Desenvolver uma aplicação que permita:
 - Datas e horas com `LocalDateTime`
 - Formatação de datas (`DateTimeFormatter`)
 - Estrutura de menus com `switch-case`
-- Entrada de dados com `Scanner`
+- Entrada de dados com `Scanner` -->
 
 ## ▶️ Como Executar
 
